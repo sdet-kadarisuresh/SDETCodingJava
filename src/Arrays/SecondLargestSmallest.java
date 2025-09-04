@@ -14,6 +14,7 @@ public class SecondLargestSmallest {
 		//System.out.println(arr[arr.length-2]);
 		//System.out.println(arr[1]);
 		
+		
 	}
 
 }
