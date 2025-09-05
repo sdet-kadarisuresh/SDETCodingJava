@@ -14,6 +14,12 @@ public class MyArrayListExample  {
 		ls.add("c");
 		
 		
+		String s1 = "Hello";
+		String	s2 = s1 + " World";  
+		System.out.println(s2);
+		System.out.println(s1);
+
+		
 		
 		
 		
