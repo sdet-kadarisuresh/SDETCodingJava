@@ -1,6 +1,5 @@
 package Strings;
 
-import com.sun.net.httpserver.Authenticator.Result;
 
 public class UpperToLower {
 
@@ -16,7 +15,6 @@ public class UpperToLower {
 
 			if (Character.isUpperCase(ch)) {
 				sb.append(Character.toLowerCase(ch));
-
 			}
 			else {
 				sb.append(Character.toUpperCase(ch));
@@ -24,5 +22,4 @@ public class UpperToLower {
 		}
 		System.out.println(sb);
 	}
-
 }
